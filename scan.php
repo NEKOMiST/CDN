@@ -3,7 +3,7 @@
 
 $dir = "files";
 
-// 최상단 폴더를 지정합니다
+// 최상단 폴더를 지정합니다 (기본값: files)
 
 $response = scan($dir);
 
