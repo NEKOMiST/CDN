@@ -17,7 +17,6 @@
 
 body {
 	/* background-color: #23232e; */
-	background-image: "bg.jpg";
 	font: 14px normal 'Open Sans', 'Nanum Gothic', Helvetica, sans-serif;
 	z-index: -4;
 }
